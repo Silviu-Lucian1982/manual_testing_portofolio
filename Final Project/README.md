@@ -50,6 +50,7 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 
 It will be done by generating periodic reports that reflect the current status of the test.
 
+
 ## 1.3. Test Analysis
 
 The testing process will be executed based on the above requirements for the Add Employee module. The following test conditions were found:
@@ -57,6 +58,12 @@ The testing process will be executed based on the above requirements for the Add
 * Enter test conditions here
 
 ## 1.4. Test Design
+
+The folowing test cases were created in Zephyr Squad. Based on the given specifications, the test design techniques used for generating test cases are **boundary value analysis**, **equivalence partitioning**. 
+
+The test cases are:
+![image](https://user-images.githubusercontent.com/77936546/166524684-3ef4991a-c227-4af7-a2df-dc9e8b9efbc6.png)
+
 
 
 
