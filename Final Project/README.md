@@ -62,7 +62,10 @@ The testing process will be executed based on the above requirements for the Add
 The folowing test cases were created in Zephyr Squad. Based on the given specifications, the test design techniques used for generating test cases are **boundary value analysis**, **equivalence partitioning**. 
 
 The test cases are:
-![image](https://user-images.githubusercontent.com/77936546/166524684-3ef4991a-c227-4af7-a2df-dc9e8b9efbc6.png)
+
+![image](https://user-images.githubusercontent.com/77936546/166525017-75b1cd54-09e3-41c5-bafa-66687c873eaa.png)
+
+
 
 
 
