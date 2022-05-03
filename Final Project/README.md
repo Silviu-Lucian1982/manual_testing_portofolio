@@ -63,7 +63,14 @@ The folowing test cases were created in Zephyr Squad. Based on the given specifi
 
 The test cases are:
 
-![image](https://user-images.githubusercontent.com/77936546/166525017-75b1cd54-09e3-41c5-bafa-66687c873eaa.png)
+![image](https://user-images.githubusercontent.com/77936546/166525661-f78f9668-233f-4eaf-b793-26a916464b72.png)
+
+
+## 1.5. Test Implementation
+
+## 1.6. Test Execution
+
+
 
 
 
